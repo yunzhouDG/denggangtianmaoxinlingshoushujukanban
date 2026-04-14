@@ -1,0 +1,7 @@
+streamlit>=1.28
+pandas
+plotly
+python-dateutil
+openpyxl
+streamlit-echarts
+pyecharts
